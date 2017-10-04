@@ -1,0 +1,10 @@
+/Users/kay/workbase/gameEngineDemo/CMakeFiles/rebuild_cache.dir
+/Users/kay/workbase/gameEngineDemo/CMakeFiles/edit_cache.dir
+/Users/kay/workbase/gameEngineDemo/Framework/CMakeFiles/rebuild_cache.dir
+/Users/kay/workbase/gameEngineDemo/Framework/CMakeFiles/edit_cache.dir
+/Users/kay/workbase/gameEngineDemo/Framework/Common/CMakeFiles/rebuild_cache.dir
+/Users/kay/workbase/gameEngineDemo/Framework/Common/CMakeFiles/edit_cache.dir
+/Users/kay/workbase/gameEngineDemo/Framework/Common/CMakeFiles/Common.dir
+/Users/kay/workbase/gameEngineDemo/Empty/CMakeFiles/rebuild_cache.dir
+/Users/kay/workbase/gameEngineDemo/Empty/CMakeFiles/edit_cache.dir
+/Users/kay/workbase/gameEngineDemo/Empty/CMakeFiles/Empty.dir

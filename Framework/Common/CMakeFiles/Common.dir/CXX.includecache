@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kay/workbase/gameEngineDemo/Framework/Common/BaseApplication.cpp
+BaseApplication.hpp
+/Users/kay/workbase/gameEngineDemo/Framework/Common/BaseApplication.hpp
+
+/Users/kay/workbase/gameEngineDemo/Framework/Common/BaseApplication.hpp
+IApplication.hpp
+/Users/kay/workbase/gameEngineDemo/Framework/Common/IApplication.hpp
+
+/Users/kay/workbase/gameEngineDemo/Framework/Common/main.cpp
+iostream
+-
+IApplication.hpp
+/Users/kay/workbase/gameEngineDemo/Framework/Common/IApplication.hpp
+
+Framework/Interface/IApplication.hpp
+Interface.hpp
+Framework/Interface/Interface.hpp
+IRuntimeModule.hpp
+Framework/Interface/IRuntimeModule.hpp
+
+Framework/Interface/IRuntimeModule.hpp
+Interface.hpp
+Framework/Interface/Interface.hpp
+
+Framework/Interface/Interface.hpp
+
